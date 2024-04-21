@@ -8,7 +8,7 @@ The result from the scans is then used to create detours to power the features w
 
 ## How do I get started?
 
-To get started with the AIO you have two ways.<br/>
+To get started with the trainer you have two ways.<br/>
 You either download the latest release or build the project yourself.
 
 ### Downloading the latest release:
