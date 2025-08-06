@@ -4,11 +4,6 @@ F1 23 Trainer made by merika.
 > [!WARNING]
 > This software is out of date. Keep your expectations low.
 
-## How It Works?
-
-This tool uses my [memory.dll library](https://github.com/szaaamerik/memory.andy.dll) to perform signature scans for different functions.<br/>
-The result from the scans is then used to create detours to power the features within the tool.
-
 ## How do I get started?
 
 To get started with the trainer you have two ways.<br/>
@@ -31,7 +26,7 @@ You either download the latest release or build the project yourself.
 
 For support, please visit our Discord server or open an issue on GitHub.
 
-Discord: [Discord Server Link](https://discord.gg/s2CxgHJ83h)<br/>
+Discord: [Discord Server Link](https://merika.dev/discord)<br/>
 GitHub Issues: [Github Issues Link](https://github.com/szaaamerik/F1-23-Trainer/issues/new/choose)<br/>
 
 ## Requirements
