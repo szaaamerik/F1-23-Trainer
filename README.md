@@ -1,6 +1,9 @@
 # F1-23-Trainer
 F1 23 Trainer made by merika.
 
+> [!WARNING]
+> This software is out of date. Keep your expectations low.
+
 ## How It Works?
 
 This tool uses my [memory.dll library](https://github.com/szaaamerik/memory.andy.dll) to perform signature scans for different functions.<br/>
